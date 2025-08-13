@@ -1,4 +1,5 @@
 ## 👋 Hi, I’m Arjun Ajith
+💬 *"Turning numbers into narratives, and data into decisions."*
 
 🎓 Currently pursuing **MSc in Econometrics and Financial Technology** at the **Centre for Budget Studies**, **Cochin University of Science and Technology**  
 📊 Passionate about **Data Analytics**, **Financial Markets**, and **Technology-Driven Investment Strategies**  
@@ -15,17 +16,7 @@
 - **Finance Tools:** Bloomberg (basic), TradingView, NSE Data APIs  
 - **Other Skills:** Financial modeling, Portfolio optimization, Risk analysis
 
-## 📌 Featured Projects
-- 📊 **SDI vs FD vs MF Income Strategy Model** – Financial planning tool for Gulf returnees and retirees  
-- 📈 **Laurus Labs Investor Insights** – Narrative-style concall analysis for retail investors  
-- 🧮 **Quantitative Beta Analysis** – Comparing regression beta vs bottom-up beta for Indian stocks  
-
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/arjunbkallara/)  
-- [Email](arjunbkallara@gmail.com)   
-
----
-
-💬 *"Turning numbers into narratives, and data into decisions."*
-
+- [Email](arjunbkallara@gmail.com)
