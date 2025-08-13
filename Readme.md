@@ -22,8 +22,8 @@
 
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/arjun-ajith)  
-- [Email](mailto:your.email@example.com)  
+- [LinkedIn](https://www.linkedin.com/arjunbkallara/)  
+- [Email](arjunbkallara@gmail.com)  
 - [Portfolio Website](https://yourportfolio.com) *(optional)*  
 
 ---
