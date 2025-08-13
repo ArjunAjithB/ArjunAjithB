@@ -23,8 +23,7 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/arjunbkallara/)  
-- [Email](arjunbkallara@gmail.com)  
-- [Portfolio Website](https://yourportfolio.com) *(optional)*  
+- [Email](arjunbkallara@gmail.com)   
 
 ---
 
