@@ -1,4 +1,4 @@
-##👋 Hi, I’m Arjun Ajith
+## 👋 Hi, I’m Arjun Ajith
 
 🎓 Currently pursuing **MSc in Econometrics and Financial Technology** at the **Centre for Budget Studies**, **Cochin University of Science and Technology**  
 📊 Passionate about **Data Analytics**, **Financial Markets**, and **Technology-Driven Investment Strategies**  
